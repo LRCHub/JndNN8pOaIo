@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "base_track": "United In Grief",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2026-03-19T19:13:33.889843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "United In Grief",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/01_United_In_Grief_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - United In Grief (Official Audio)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/02_Kendrick_Lamar_-_United_In_Grief_(Official_Audio)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1-01 United In Grief",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/03_1-01_United_In_Grief_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "United In Grief",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/04_United_In_Grief_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "United In Grief",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/05_United_In_Grief_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - United In Grief (Official Audio)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/06_Kendrick_Lamar_-_United_In_Grief_(Official_Audio)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "United In Grief (Instrumental)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/07_United_In_Grief_(Instrumental)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - United In Grief (Official Audio)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/08_Kendrick_Lamar_-_United_In_Grief_(Official_Audio)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "United In Grief Explicit",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/09_United_In_Grief_Explicit_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "United In Grief (Original Mix)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/10_United_In_Grief_(Original_Mix)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Big Steppers: United in Grief",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/11_Big_Steppers__United_in_Grief_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "United In Grief",
+      "artist": "Kendrick Lamar, Whitney Alford",
+      "has_synced": true,
+      "path": "select/12_United_In_Grief_Kendrick_Lamar,_Whitney_Alford.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "United In Grief (Paused)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/13_United_In_Grief_(Paused)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "United In Grief",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_United_In_Grief_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "United In Grief",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/localdb_01_United_In_Grief_Kendrick_Lamar.lrc",
+      "repo_name": "tvNSXS4x9nc"
+    }
+  ]
+}
